@@ -1,0 +1,21 @@
+#about{
+  height: 100vh;
+  background-color: #1abc9c;
+
+  color: #fff;
+
+
+}
+#about h2{
+  font-size: 40px;
+}
+.line1{
+  background-color: #fff;
+  height: 4px;
+  width: 150px;
+}
+.line2{
+  background-color: #fff;
+  height: 4px;
+  width: 150px;
+}
